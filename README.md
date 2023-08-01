@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Bruno Herique 👋
 
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando TypeScript
+- 🔭 Hoje Ministro aulas de Lógica de Programação, HTML e CSS, JavaScript, SQL, Node.js e React.js
+- 🌱 Estudando TypeScript e Next.js
 
 <div>
   <a href="">
